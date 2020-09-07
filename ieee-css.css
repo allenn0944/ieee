@@ -1,0 +1,61 @@
+
+
+body{
+    background-color: rgb(214, 244, 255);
+}
+.bx{
+    background-color: whitesmoke;
+    
+    }
+    html {
+        scroll-behavior: smooth;
+      }
+ #divaboutus{
+     background-color: white;
+     width: 95%;
+     height: 400px;
+     box-shadow: blue;
+    
+ }     
+ #aboutushr{
+    
+        height: 1px;
+        width: 30%;
+        background-color: black;
+    
+ }
+#ieeehome{
+    
+    width: 95%;
+    height: 400px;
+    box-shadow: blue;
+}
+#carouselExampleIndicators{
+    margin-top: 70px;
+    height: 400px;
+    width: 95%;
+}
+#forsizeadjustment{
+    height: 400px;
+    
+}
+.img-thumbnail{
+    height: 300px;
+    width: 300px;
+    margin: 3px;
+}
+#gallery{
+    background-color: white;
+    width: 95%;
+    height: 700px;
+    box-shadow: blue;
+
+}
+#eventndrp{
+    background-color: white;
+    width: 95%;
+    height: 500px;
+    box-shadow: blue;
+    
+}
+
